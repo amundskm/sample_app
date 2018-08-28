@@ -28,8 +28,7 @@ group :development do
   gem 'spring-watcher-listen', '2.0.1'
 end
 
-group :test do
-  gem 'rails-controller-testing', '1.0.2'
+group :test do  gem 'rails-controller-testing', '1.0.2'
   gem 'minitest',                 '5.10.3'
   gem 'minitest-reporters',       '1.1.14'
   gem 'guard',                    '2.14.1'
